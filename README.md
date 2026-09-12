@@ -120,3 +120,12 @@ O DNS está na Hostinger, com o registro A apontando para o servidor do EasyPane
 - **Fontes**: Bitter e Karla, do Google Fonts.
 - **Acessibilidade**: navegação por teclado, foco visível, contraste conferido e
   respeito a `prefers-reduced-motion`. Sem JavaScript, o conteúdo aparece igual.
+
+## Fotos usadas
+
+As imagens são de uso livre, obtidas pelo Openverse:
+
+- `site/img/hero.jpg`, "Free bbq, meat skewer, grill", licença CC0 (domínio público ou equivalente, sem exigência de crédito).
+
+Para trocar por fotos do próprio negócio, basta substituir os arquivos dentro de
+`site/img/` mantendo os mesmos nomes. O formato usado no topo é 4 por 3.
