@@ -1,0 +1,14 @@
+{
+  "name": "M.A. Restaurante e Espetaria",
+  "short_name": "M.A. Espetaria",
+  "description": "Espetinho na brasa, prato feito, porções e refeições para empresas no Jardim São Luís, São Paulo.",
+  "lang": "pt-BR",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#FFF6EC",
+  "theme_color": "#C1442F",
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" },
+    { "src": "/apple-touch-icon.png", "sizes": "180x180", "type": "image/png" }
+  ]
+}
